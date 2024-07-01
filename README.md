@@ -78,9 +78,9 @@ In order to facilitate regulated token production and user-driven supply reducti
 
 # Authors :
 
-=> Sourov Kumar Nandi
+=> Shagufta Seraj
 
-Github : https://github.com/Sourov2002t
+Github : https://github.com/Shaguftaseraj
 
 # LICENSE :
-This Project is licensed under the MIT License - see the link (  ) for details.
+This Project is licensed under the MIT License - see the link ( https://github.com/Shaguftaseraj/avaxFunction/blob/main/LICENSE ) for details.
