@@ -42,7 +42,7 @@ In order to facilitate regulated token production and user-driven supply reducti
       
   ii. In the Remix file explorer, click on the + icon or right-click in the workspace and select New File. Name your file (e.g., DGToken.sol).
 
-  iii. Copy your DGToken smart contract code and paste it into the new file. ( )
+  iii. Copy your DGToken smart contract code and paste it into the new file. ( https://github.com/Shaguftaseraj/avaxFunction/blob/main/3rd.sol )
 
   iv. Click on the Solidity Compiler tab .
   
