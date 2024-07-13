@@ -19,10 +19,15 @@ Token implementation: The OpenZeppelin library and Solidity are used to enable t
    
      * Mints an initial supply of 1,000,000 tokens to the deployer's address at contract deployment. This supply is set with respect to the token's decimal places.
 
-5. Minting Functionality :
+4. Minting Functionality :
    
     * The `mint` function allows the contract owner to create new tokens and assign them to any address.
       This function can be used to increase the total supply as needed.
+
+5. Transfer Function :
+
+    * transfer: Allows token holders to transfer their tokens to another address. This function overrides the transfer function from the ERC20 standard to 
+      explicitly include it in the contract. 
 
 6. Burning Functionality :
    
@@ -69,6 +74,8 @@ In order to facilitate regulated token production and user-driven supply reducti
     mint(address to, uint256 balance): Mint new tokens.
     
     burn(uint256 balance): Burn tokens from your balance.
+
+    transfer: Allows token holders to transfer their tokens to another address.
     
   xv. Click the respective buttons for each function, fill in the required parameters, and execute the transactions.
   
